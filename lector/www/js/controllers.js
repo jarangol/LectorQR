@@ -9,6 +9,4 @@ angular.module('lector.controllers',['ionic','ngCordova'])
 			alert("Ha ocurrido un error: "+error);
 		});
 	}
-	
-
 } );
